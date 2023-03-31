@@ -1,0 +1,6 @@
+{
+  "Artist": {"S": "Green Day"},
+  "SongTitle": {"S": "American Idiot"},
+  "AlbumTitle": {"S": "American Idiot"},
+  "SongYear": {"S": "2004"}
+}

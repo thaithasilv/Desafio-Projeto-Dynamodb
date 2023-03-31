@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Green Day"},
+                  "SongTitle": {"S": "21 Guns"},
+                  "AlbumTitle": {"S": "21st Century Breakdown"},
+                  "SongYear": {"S": "2009"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Green Day"},
+                  "SongTitle": {"S": "21st Century Breakdown"},
+                  "AlbumTitle": {"S": "21st Century Breakdown"},
+                  "SongYear": {"S": "2009"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Green Day"},
+                  "SongTitle": {"S": "See the ligth green"},
+                  "AlbumTitle": {"S": "21st Century Breakdown"},
+                  "SongYear": {"S": "2009"}
+                }
+            }
+        }
+      ]
+}
